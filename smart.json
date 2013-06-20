@@ -1,0 +1,8 @@
+{
+  "name": "prismjs",
+  "description": "Prism syntax highlighter by Lea Verou, packaged for Meteor",
+  "homepage": "https://github.com/santihbc/meteor-prism-js",
+  "author": "Santi Herrero <santihbc@gmail.com>",
+  "version": "0.1.0",
+  "git": "https://github.com/santihbc/meteor-prism-js.git"
+}
