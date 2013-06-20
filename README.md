@@ -1,4 +1,4 @@
-meteor-popcorn-js
+meteor-prism-js
 =================
 
 Meteor packaging of the syntax highlighting library Prism.js (by Lea Verou).
